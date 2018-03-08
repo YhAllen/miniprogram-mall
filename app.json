@@ -4,6 +4,7 @@
     "pages/homePage/topicDetail/topicDetail",
     "pages/goods/goods",
     "pages/my/my",
+    "pages/shoping/address/address",
     "pages/my/orders/orders",
     "pages/my/collection/collection",
     "pages/my/about/about",
@@ -19,6 +20,7 @@
   },
   "tabBar": {
     "borderStyle": "#f2f2f2",
+    "backgroundColor": "#fff",
     "color": "#000",
     "selectedColor": "#c4a24f",
     "position": "bottom",
